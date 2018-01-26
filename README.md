@@ -50,6 +50,7 @@ Log in to your Okta Developer account and navigate to **Applications** > **Add A
 
 * `http://localhost:8080/login`
 * `http://localhost:8100`
+* `http://localhost:8888/login`
 
 Click **Done** and you should see a client ID and client secret on the next screen. Edit the **General Settings** of your application and enable "Implicit (Hybrid)" grant type, and check the two boxes below it. Implicit flow needs to be allowed for your Ionic to authenticate.
 
