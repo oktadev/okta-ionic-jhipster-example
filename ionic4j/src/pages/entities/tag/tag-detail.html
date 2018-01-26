@@ -1,0 +1,17 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>Tag</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content padding>
+    <ion-list>
+        <ion-item>
+            <ion-label>Name</ion-label>
+            <div item-content>
+                <span>{{tag.name}}</span>
+            </div>
+        </ion-item>
+    </ion-list>
+
+    <button ion-button block (click)="open(tag)">{{ 'EDIT_BUTTON' | translate }}</button>
+</ion-content>
