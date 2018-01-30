@@ -2,7 +2,7 @@
  
 This example app shows how to use Ionic for JHipster to create a blog app. 
 
-Please read [this article]() to see how this app was created.
+Please read [Use Ionic for JHipster to Create Mobile Apps with OIDC Authentication](https://developer.okta.com/blog/2018/01/30/jhipster-ionic-with-oidc-authentication) to see how this app was created.
 
 **Prerequisites:** [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [Node.js](https://nodejs.org/).
 
