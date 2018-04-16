@@ -18,7 +18,7 @@ Please read [Use Ionic for JHipster to Create Mobile Apps with OIDC Authenticati
 To install this example application, run the following commands:
 
 ```bash
-git clone git@github.com:oktadeveloper/okta-ionic-jhipster-example.git
+git clone https://github.com/oktadeveloper/okta-ionic-jhipster-example.git
 cd okta-ionic-jhipster-example
 ```
 
